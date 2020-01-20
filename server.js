@@ -40,7 +40,7 @@ const busData = async() => {
 
 // Displays all bus data from MARTA
 app.get("/api/all-buses", function(req, res) {
-    return res.json(busesArr);
+    return res.json(busesArr); 
 });
 
 
