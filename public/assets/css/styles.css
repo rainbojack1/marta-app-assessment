@@ -1,0 +1,23 @@
+aside {
+    width: 25%;
+    float: left;
+}
+
+main {
+    width: 75%;
+    float: right;
+}
+
+.jumbotron img {
+    width: 75%;
+}
+
+#chosenBus p {
+    margin: 0;
+}
+
+#map {
+    width: 500px;
+    height: 500px;
+    margin-left: 10px;
+}
