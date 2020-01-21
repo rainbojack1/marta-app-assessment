@@ -2,7 +2,7 @@
   "name": "marta-app-assessment",
   "version": "1.0.0",
   "description": "Simple app to search for and display selected buses",
-  "main": "index.js",
+  "main": "server.js",
   "scripts": {
     "test": "jasmine",
     "start": "node server.js",
